@@ -1,0 +1,34 @@
+footer {
+    background-color: #1377AF;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    padding: 30px;
+}
+
+.content-left-footer {
+    text-align: start;
+    display: flex;
+    justify-content: flex-start;
+    width: 50%;
+}
+
+.content-left-footer img {
+    margin-right: 20px;
+}
+
+.content-right-footer > p {
+    font-size: 30px;
+}
+
+span {
+    font-size: 80px;
+    margin: 0;
+}
+
+.content-right-footer {
+    text-align: end;
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+}

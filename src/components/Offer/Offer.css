@@ -1,0 +1,54 @@
+
+.containerOffer {
+    border: 1px solid #C1C6C9;
+    width: 50%;
+    margin: 20px;
+}
+
+.offer_top, .offer_middle {
+    padding: 1px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #DCE4E6;
+    border-bottom: 1px solid#C1C6C9;
+}
+
+.offer_middle {
+    background-color: #E4ECEE;
+}
+
+.offer_middle > .grey {
+    margin: 40px auto;
+    font-size: 15px;
+}
+
+.monthly {
+    font-size: 20px;
+    margin: 0;
+}
+
+.size_100 {
+    font-size: 130px;
+    margin: 0;
+}
+
+sup {
+    font-size: 25px;
+}
+
+.offer_bottom {
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+.offer_bottom > p {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.green {
+    color: #B2C66A;
+    margin-right: 10px;
+}

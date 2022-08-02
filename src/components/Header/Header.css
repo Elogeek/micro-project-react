@@ -1,0 +1,78 @@
+header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 80px;
+    background-image: url("/src/assets/img/back.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.start {
+    text-align: left;
+}
+
+.width_50 {
+    width: 50%;
+}
+
+#logoApp {
+    width: 15%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.headerLinks > a {
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.headerLinks > a:hover {
+    background-color: #06B8C2;
+}
+
+#slogan {
+    font-size: 80px;
+    color: white;
+    text-align: left;
+    margin: 70px 0;
+}
+
+.lorem {
+    width: 50%;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.buttonYellow {
+    border-radius: 30px;
+    background-color: #FED911;
+    border: 2px solid #FED911;
+    color: #6B2800;
+    padding: 15px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.buttonYellow:hover {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+}
+
+.marg_50 {
+    margin: 100px 0 ;
+}
